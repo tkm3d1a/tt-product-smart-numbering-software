@@ -1,4 +1,4 @@
-# tt-product-versioning-software
+# tt-product-smart-numbering-software
 
 About:
 
