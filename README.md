@@ -1,10 +1,27 @@
 # tt-product-smart-numbering-software
 
 About:
+This is a personal project I am building to recreate some features I like and have used in previous auto-numbering systems.  It won't have a real
+current purpose other than to emulate applications I have used that give "Smart Numbering" based on some various settings input by the user.  The idea
+is mostly catered around building physical products, but there will be item types that can apply to any general project.  I plan to work on and complete this
+as a main showcase of design and programming skills.  Please do not judge whatever the art ends up looking like...
 
-Features:
+Features: <<To be built using WPF/C#>>
+- Main Screen allowing the user to make a new project
+    - Project will require the following input to be created
+        - Title
+        - Description
+        - Project Type
+            - This will be from a predetermined list of...
+                - Personal
+                    - Private
+                    - Public
+                - Professional
+                - Other (May remove this option?)
+    - Creation of the project will give the user a dedicated project code to be used with that project
+- *Future screens still tbd*
 
-Version:
+Version: v0.0.1
 
 ## Copy-Paste from Notion
 
