@@ -29,6 +29,8 @@ Version: v0.0.1
 
 [Windows in WPF overview](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/windows/?view=netdesktop-6.0)
 
+[Video on switching views?](https://www.youtube.com/watch?v=xUwk2-_tRzo&ab_channel=ToskersCorner)
+
 ## Copy-Paste from Notion
 
 This will need to be cleaned and transposed to proper information at a later date.
