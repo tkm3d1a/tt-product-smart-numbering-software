@@ -23,6 +23,12 @@ Features: <<To be built using WPF/C#>>
 
 Version: v0.0.1
 
+## Reference resources
+
+[WindowsChrome for WPF non-client area modification](https://docs.microsoft.com/en-us/dotnet/api/system.windows.shell.windowchrome?view=windowsdesktop-6.0)
+
+[Windows in WPF overview](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/windows/?view=netdesktop-6.0)
+
 ## Copy-Paste from Notion
 
 This will need to be cleaned and transposed to proper information at a later date.
