@@ -22,6 +22,15 @@ Features: <<To be built using WPF/C#>>
 - *Future screens still tbd*
 
 Version: v0.0.1
+Date: 09-27-2022
+
+## Internal resources
+- basic-structure.txt
+    - contains info/layout of the basic structure for program
+    - Structure to be
+        - Line 1: version number written as 'vX'
+        - Line 2: date of last update writtenas 'mmddyyyy'
+        - Till EOF: structure information
 
 ## Reference resources
 
