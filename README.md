@@ -40,6 +40,17 @@ Date: 09-27-2022
 
 [Video on switching views?](https://www.youtube.com/watch?v=xUwk2-_tRzo&ab_channel=ToskersCorner)
 
+## Update Logs
+
+**10/11/2022**
+- Attempting to setup in VS
+    - Setting up VS solution from existing folder is not simple
+    - Need to investigate why solution explorer is not working (only showing folder view)
+- Adding .gitignore info to cover
+- Basic hello world c# file written to remember setup
+    - Not compiled or setup though
+- Need to set a goal for coming days to get some basic MVP working
+
 ## Copy-Paste from Notion
 
 This will need to be cleaned and transposed to proper information at a later date.

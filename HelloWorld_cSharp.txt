@@ -1,0 +1,15 @@
+// Hello world!
+
+// Namespace declaration
+namespace HelloWorld
+{
+	// Class declaration
+	class Hello {
+
+		// Main method
+		static void Main(string[] args)
+		{
+			System.Console.WriteLine("Hello World!");
+		}
+	}
+}

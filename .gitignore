@@ -1,0 +1,9 @@
+# Adding files to remove as they are encountered in VS builds
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+*.csproj*
+.vs/
+
+# Want to avoid any VS specific items
+# May need to reinclude based on future research
