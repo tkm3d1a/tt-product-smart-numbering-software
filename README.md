@@ -42,6 +42,11 @@ Date: 09-27-2022
 
 ## Update Logs
 
+**10/21/2022**
+- Recreated project as addition to project in VS
+- Base window set up, not custom config past init WPF creation
+- Explor grid base and work on basic UI layout
+
 **10/11/2022**
 - Attempting to setup in VS
     - Setting up VS solution from existing folder is not simple
